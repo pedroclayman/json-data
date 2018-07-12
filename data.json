@@ -1,26 +1,32 @@
 [
     {
         "name": "January",
-        "age": 20
+        "x": 20,
+        "y": 45
     },
     {
         "name": "February",
-        "age": 12
+        "x": 12,
+        "y": 32
     },
     {
         "name": "March",
-        "age": 13
+        "x": 13,
+        "y": 27
     },
     {
         "name": "April",
-        "age": 21
+        "x": 21,
+        "y": 6
     },
     {
         "name": "May",
-        "age": 23
+        "x": 23,
+        "y": 87
     },
     {
         "name": "June",
-        "age": 3
+        "x": 3,
+        "y": 33
     }
 ]
