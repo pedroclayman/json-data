@@ -1,4 +1,26 @@
-{
-    "name": "Peter",
-    "age": 20
-}
+[
+    {
+        "name": "January",
+        "age": 20
+    },
+    {
+        "name": "February",
+        "age": 12
+    },
+    {
+        "name": "March",
+        "age": 13
+    },
+    {
+        "name": "April",
+        "age": 21
+    },
+    {
+        "name": "May",
+        "age": 23
+    },
+    {
+        "name": "June",
+        "age": 3
+    }
+]
